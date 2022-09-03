@@ -8,7 +8,7 @@ Nya's settings can be accessed from the ⚙️ button, pressing this will bring 
 Nya features a floating screen, allowing Nya to be accessed outside of the gameplay setup panel. In the event that this floating screen gets stuck somewhere inaccessible it's position can be reset from BSML's mod settings panel. The position can also be reset from Nya's settings modal and settings view.
 ### Local Files
 In order for local files to work there must be compatible images in the sfw / nsfw files found in Nya's UserData folder.
-The compatible file types are PNG, JPEG, GIF and APNG.
+The compatible file types are PNG, JPEG, GIF.
 Images which are downloaded via Nya will also be placed in the sfw / nsfw folders.
 ### Dependencies
 * [SiraUtil](https://github.com/Auros/SiraUtil) _- Available in ModAssistant_
